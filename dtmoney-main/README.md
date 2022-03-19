@@ -1,13 +1,6 @@
 # dt money
 
-<p>
-  <img src="https://img.shields.io/badge/made%20by-RAFAEL%20MARTINS-ff512f?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/martins-rafael/dtmoney?color=ff512f&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/martins-rafael/dtmoney?color=ff512f&style=flat-square">
-  <a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-ff512f?style=flat-square">
-  </a>
-  
+
 </p>
 
 <img align="right" src="src/assets/logo.svg" width="35%" alt="dt money">
@@ -27,6 +20,12 @@
 ## Sobre o dt money
 
 O dt money é uma alternativa simples e eficaz para gerenciar suas finanças, permitindo o cadastro de entradas, saídas e a organização das mesmas em categorias.
+
+![image](https://user-images.githubusercontent.com/51343240/159105003-78765df4-cf22-4d56-a3e3-86133ab45674.png)
+
+
+
+
 
 <br>
 
@@ -74,11 +73,7 @@ yarn start
 
 <br>
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
 
 ---
 
-Feito com :orange_heart: by [Rafael Martins](https://github.com/martins-rafael)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Martins-ff512f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldcmartins/)](https://www.linkedin.com/in/rafaeldcmartins/) 
-[![Gmail Badge](https://img.shields.io/badge/-rafaeldcmartins@gmail.com-ff512f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldcmartins@gmail.com)](mailto:rafaeldcmartins@gmail.com)
